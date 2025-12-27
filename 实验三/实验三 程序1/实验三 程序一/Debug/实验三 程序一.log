@@ -1,0 +1,4 @@
+﻿  实验三 程序一.cpp
+c:\users\huyizhou\desktop\program\实验三 程序1\实验三 程序一\实验三 程序一.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  实验三 程序一.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验三 程序1\Debug\实验三 程序一.exe
+  实验三 程序一.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验三 程序1\Debug\实验三 程序一.pdb (Full PDB)

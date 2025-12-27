@@ -1,0 +1,8 @@
+﻿  实验三 程序4.cpp
+c:\users\huyizhou\desktop\program\实验三 程序4\实验三 程序4\实验三 程序4.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\huyizhou\desktop\program\实验三 程序4\实验三 程序4\实验三 程序4.cpp(42): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\huyizhou\desktop\program\实验三 程序4\实验三 程序4\实验三 程序4.cpp(42): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\huyizhou\desktop\program\实验三 程序4\实验三 程序4\实验三 程序4.cpp(42): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\huyizhou\desktop\program\实验三 程序4\实验三 程序4\实验三 程序4.cpp(42): note: 此参数用作缓冲区大小
+  实验三 程序4.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验三 程序4\Debug\实验三 程序4.exe
+  实验三 程序4.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验三 程序4\Debug\实验三 程序4.pdb (Full PDB)

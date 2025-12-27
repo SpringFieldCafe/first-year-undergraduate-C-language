@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  实验三 程序2.cpp
+c:\users\huyizhou\desktop\program\实验三 程序2\实验三 程序2\实验三 程序2.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  实验三 程序2.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验三 程序2\Debug\实验三 程序2.exe
+  实验三 程序2.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验三 程序2\Debug\实验三 程序2.pdb (Full PDB)
