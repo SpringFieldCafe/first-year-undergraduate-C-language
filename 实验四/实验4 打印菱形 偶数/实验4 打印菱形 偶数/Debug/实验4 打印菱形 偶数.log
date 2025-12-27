@@ -1,0 +1,6 @@
+﻿  实验4 打印菱形 偶数.cpp
+c:\users\huyizhou\desktop\program\实验4 打印菱形 偶数\实验4 打印菱形 偶数\实验4 打印菱形 偶数.cpp(4): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\huyizhou\desktop\program\实验4 打印菱形 偶数\实验4 打印菱形 偶数\实验4 打印菱形 偶数.cpp(4): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\huyizhou\desktop\program\实验4 打印菱形 偶数\实验4 打印菱形 偶数\实验4 打印菱形 偶数.cpp(5): note: 使用预编译头
+  实验4 打印菱形 偶数.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验4 打印菱形 偶数\Debug\实验4 打印菱形 偶数.exe
+  实验4 打印菱形 偶数.vcxproj -> C:\Users\HuYiZhou\Desktop\program\实验4 打印菱形 偶数\Debug\实验4 打印菱形 偶数.pdb (Full PDB)
