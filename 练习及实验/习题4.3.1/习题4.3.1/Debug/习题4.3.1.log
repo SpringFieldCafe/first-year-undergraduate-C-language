@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  习题4.3.1.cpp
+c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“char *”
+  c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): note: 此参数用作缓冲区大小
+c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 3 拥有了类型“int *”
+  c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): note: 此参数由转换说明符使用
+c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): note: 占位符和其参数预计 5 可变参数，但提供的却是 3 参数
+  c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): note: 缺失的可变参数 4 为格式字符串“%c”所需
+  c:\users\huyizhou\desktop\program\习题4.3.1\习题4.3.1\习题4.3.1.cpp(11): note: 此参数用作缓冲区大小
+  习题4.3.1.vcxproj -> C:\Users\HuYiZhou\Desktop\program\习题4.3.1\Debug\习题4.3.1.exe
+  习题4.3.1.vcxproj -> C:\Users\HuYiZhou\Desktop\program\习题4.3.1\Debug\习题4.3.1.pdb (Full PDB)

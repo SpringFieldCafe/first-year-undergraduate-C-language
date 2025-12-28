@@ -1,0 +1,5 @@
+﻿  指针试验.cpp
+c:\users\huyizhou\desktop\program\指针试验\指针试验\指针试验.cpp(13): warning C4477: “printf”: 格式字符串“%lf”需要类型“double”的参数，但可变参数 1 拥有了类型“double *”
+c:\users\huyizhou\desktop\program\指针试验\指针试验\指针试验.cpp(9): warning C4101: “i”: 未引用的局部变量
+  指针试验.vcxproj -> C:\Users\HuYiZhou\Desktop\program\指针试验\Debug\指针试验.exe
+  指针试验.vcxproj -> C:\Users\HuYiZhou\Desktop\program\指针试验\Debug\指针试验.pdb (Full PDB)

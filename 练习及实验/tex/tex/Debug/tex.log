@@ -1,0 +1,7 @@
+﻿  tex.cpp
+c:\users\huyizhou\desktop\program\tex\tex\tex.cpp(10): warning C4305: “初始化”: 从“int”到“char”截断
+c:\users\huyizhou\desktop\program\tex\tex\tex.cpp(10): warning C4309: “初始化”: 截断常量值
+c:\users\huyizhou\desktop\program\tex\tex\tex.cpp(11): warning C4305: “初始化”: 从“int”到“char”截断
+c:\users\huyizhou\desktop\program\tex\tex\tex.cpp(11): warning C4309: “初始化”: 截断常量值
+  tex.vcxproj -> C:\Users\HuYiZhou\Desktop\program\tex\Debug\tex.exe
+  tex.vcxproj -> C:\Users\HuYiZhou\Desktop\program\tex\Debug\tex.pdb (Full PDB)

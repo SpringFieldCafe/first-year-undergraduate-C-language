@@ -1,0 +1,14 @@
+﻿  简易计算器.cpp
+c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(4): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(4): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(6): note: 使用预编译头
+c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(19): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(19): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(19): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(19): note: 此参数用作缓冲区大小
+c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(57): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(57): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(57): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  c:\users\huyizhou\desktop\program\简易计算器\简易计算器\简易计算器.cpp(57): note: 此参数用作缓冲区大小
+  简易计算器.vcxproj -> C:\Users\HuYiZhou\Desktop\program\简易计算器\Debug\简易计算器.exe
+  简易计算器.vcxproj -> C:\Users\HuYiZhou\Desktop\program\简易计算器\Debug\简易计算器.pdb (Full PDB)

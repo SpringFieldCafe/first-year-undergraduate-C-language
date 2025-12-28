@@ -1,0 +1,4 @@
+﻿  冒泡法.cpp
+c:\users\huyizhou\desktop\program\冒泡法\冒泡法\冒泡法.cpp(41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  冒泡法.vcxproj -> C:\Users\HuYiZhou\Desktop\program\冒泡法\Debug\冒泡法.exe
+  冒泡法.vcxproj -> C:\Users\HuYiZhou\Desktop\program\冒泡法\Debug\冒泡法.pdb (Full PDB)

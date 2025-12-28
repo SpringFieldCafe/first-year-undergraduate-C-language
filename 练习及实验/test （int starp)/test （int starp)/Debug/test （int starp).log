@@ -1,0 +1,7 @@
+﻿  test （int starp).cpp
+c:\users\huyizhou\desktop\program\test （int starp)\test （int starp)\test （int starp).cpp(17): error C2084: 函数“A::A(void)”已有主体
+  c:\users\huyizhou\desktop\program\test （int starp)\test （int starp)\test （int starp).cpp(12): note: 参见“{ctor}”的前一个定义
+c:\users\huyizhou\desktop\program\test （int starp)\test （int starp)\test （int starp).cpp(26): error C2264: “A::A”: 函数定义或声明中有错误；未调用函数
+c:\users\huyizhou\desktop\program\test （int starp)\test （int starp)\test （int starp).cpp(27): error C3866: 析构函数 调用缺少参数列表
+c:\users\huyizhou\desktop\program\test （int starp)\test （int starp)\test （int starp).cpp(28): error C2065: “i”: 未声明的标识符
+c:\users\huyizhou\desktop\program\test （int starp)\test （int starp)\test （int starp).cpp(28): error C2065: “j”: 未声明的标识符

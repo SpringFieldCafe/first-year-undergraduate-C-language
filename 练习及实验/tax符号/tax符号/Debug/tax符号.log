@@ -1,0 +1,5 @@
+﻿  tax符号.cpp
+c:\users\huyizhou\desktop\program\tax符号\tax符号\tax符号.cpp(14): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\huyizhou\desktop\program\tax符号\tax符号\tax符号.cpp(14): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  tax符号.vcxproj -> C:\Users\HuYiZhou\Desktop\program\tax符号\Debug\tax符号.exe
+  tax符号.vcxproj -> C:\Users\HuYiZhou\Desktop\program\tax符号\Debug\tax符号.pdb (Full PDB)

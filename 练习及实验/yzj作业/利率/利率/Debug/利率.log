@@ -1,0 +1,4 @@
+﻿  利率.cpp
+c:\users\huyizhou\desktop\program\杨子杰\利率\利率\利率.cpp(20): warning C4477: “printf”: 格式字符串“%.2lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  利率.vcxproj -> C:\Users\HuYiZhou\Desktop\program\杨子杰\利率\Debug\利率.exe
+  利率.vcxproj -> C:\Users\HuYiZhou\Desktop\program\杨子杰\利率\Debug\利率.pdb (Full PDB)
