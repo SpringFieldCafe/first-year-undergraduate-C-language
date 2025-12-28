@@ -1,0 +1,4 @@
+﻿  实验5 1.cpp
+c:\users\huyizhou\desktop\program\实验5 1\实验5 1\实验5 1.cpp(25): error C2664: “void Sort(float [][3],int *,float *,float *,int)”: 无法将参数 1 从“float *”转换为“float [][3]”
+  c:\users\huyizhou\desktop\program\实验5 1\实验5 1\实验5 1.cpp(25): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\huyizhou\desktop\program\实验5 1\实验5 1\实验5 1.cpp(80): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据

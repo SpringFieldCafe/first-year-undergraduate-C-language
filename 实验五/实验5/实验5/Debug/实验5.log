@@ -1,0 +1,15 @@
+﻿  实验5.cpp
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(13): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 2 拥有了类型“float **”
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(13): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 3 拥有了类型“float **”
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(13): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 4 拥有了类型“float **”
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(28): error C2110: “+”: 不能添加两个指针
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(88): error C2664: “int num(float **[],int *)”: 无法将参数 1 从“float [31][3]”转换为“float **[]”
+  c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(88): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(89): error C2664: “float mySum(float **[],float *,int)”: 无法将参数 1 从“float [31][3]”转换为“float **[]”
+  c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(89): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(95): error C2660: “mySum”: 函数不接受 1 个参数
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(104): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(105): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(105): note: 占位符和其参数预计 0 可变参数，但提供的却是 3 参数
+c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(106): warning C4474: printf: 格式字符串中传递的参数太多
+  c:\users\huyizhou\desktop\program\实验5\实验5\实验5.cpp(106): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
