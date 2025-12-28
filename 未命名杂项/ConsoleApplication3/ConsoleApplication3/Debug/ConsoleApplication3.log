@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  ConsoleApplication3.cpp
+c:\users\huyizhou\desktop\program\consoleapplication3\consoleapplication3\consoleapplication3.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\huyizhou\desktop\program\consoleapplication3\consoleapplication3\consoleapplication3.cpp(26): note: 参见对正在编译的函数 模板 实例化“const T &max_element<int>(T *,unsigned int)”的引用
+          with
+          [
+              T=int
+          ]
+c:\users\huyizhou\desktop\program\consoleapplication3\consoleapplication3\consoleapplication3.cpp(11): warning C4101: “i”: 未引用的局部变量
+c:\users\huyizhou\desktop\program\consoleapplication3\consoleapplication3\consoleapplication3.cpp(15): warning C4172: 返回局部变量或临时变量的地址: max_value
+c:\users\huyizhou\desktop\program\consoleapplication3\consoleapplication3\consoleapplication3.cpp(15): warning C4172: 返回局部变量或临时变量的地址: max_value
+  ConsoleApplication3.vcxproj -> C:\Users\HuYiZhou\Desktop\program\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\HuYiZhou\Desktop\program\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)

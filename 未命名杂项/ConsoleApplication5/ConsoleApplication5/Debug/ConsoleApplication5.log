@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+c:\users\huyizhou\desktop\program\consoleapplication5\consoleapplication5\consoleapplication5.cpp(12): warning C4101: “j”: 未引用的局部变量
+  ConsoleApplication5.vcxproj -> C:\Users\HuYiZhou\Desktop\program\ConsoleApplication5\Debug\ConsoleApplication5.exe
+  ConsoleApplication5.vcxproj -> C:\Users\HuYiZhou\Desktop\program\ConsoleApplication5\Debug\ConsoleApplication5.pdb (Full PDB)

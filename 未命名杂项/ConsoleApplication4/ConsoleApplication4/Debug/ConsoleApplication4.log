@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  ConsoleApplication4.cpp
+c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(18): error C2872: “tuple”: 不明确的符号
+  c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(10): note: 可能是“tuple”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(71): note: 或  “std::tuple”
+c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(26): error C2872: “tuple”: 不明确的符号
+  c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(10): note: 可能是“tuple”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(71): note: 或  “std::tuple”
+c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(27): error C2872: “tuple”: 不明确的符号
+  c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(10): note: 可能是“tuple”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(71): note: 或  “std::tuple”
+c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(28): error C2872: “tuple”: 不明确的符号
+  c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(10): note: 可能是“tuple”
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\utility(71): note: 或  “std::tuple”
+c:\users\huyizhou\desktop\program\consoleapplication4\consoleapplication4\consoleapplication4.cpp(30): error C2059: 语法错误:“.”

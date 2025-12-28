@@ -1,0 +1,13 @@
+﻿  multitypename.cpp
+c:\users\huyizhou\desktop\program\multitypename\multitypename\multitypename.cpp(22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\huyizhou\desktop\program\multitypename\multitypename\multitypename.cpp(33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  c:\users\huyizhou\desktop\program\multitypename\multitypename\multitypename.cpp(16): note: 参见对正在编译的函数 模板 实例化“T0 f<double,int,int,int,int>(T1,T3,T4)”的引用
+          with
+          [
+              T0=double,
+              T1=int,
+              T3=int,
+              T4=int
+          ]
+  multitypename.vcxproj -> C:\Users\HuYiZhou\Desktop\program\multitypename\Debug\multitypename.exe
+  multitypename.vcxproj -> C:\Users\HuYiZhou\Desktop\program\multitypename\Debug\multitypename.pdb (Full PDB)
